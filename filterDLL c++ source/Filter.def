@@ -1,0 +1,11 @@
+LIBRARY Filter
+DESCRIPTION 'Sample functions'
+EXPORTS
+		Draw
+		InvertRVB
+		LightenRVB
+		DarKenRVB
+		GrayIntensityRVB
+		BlurRVB
+		MorphFishEyeRVB
+		ApplyKernelToRVB
